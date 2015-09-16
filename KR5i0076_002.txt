@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:56:34.671014
+#+DATE: 2015-08-29 17:56:35.311098
 #+PROPERTY: ID KR5i0076
-#+TITLE:懺法大觀 Chanfa Daguan
+#+TITLE:懺法大觀
+#+PROPERTY: pinyin Chanfa Daguan
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0076_02p001a>¶
@@ -48,4 +49,4 @@
 水府護國寶懴¶
 水官錫福寶懴¶
 天醫濟世寶懴¶
-¶	
+¶
